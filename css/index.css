@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.stages{ margin:0px auto; padding:0px; border:2px solid #7ED8FE; height:30px; width:996px; line-height:30px; vertical-align:middle; text-align:left; overflow:hidden;}
+.stages_title{ width:96px; text-align:center; border-right:2px solid #7ED8FE; float:left; font-size:18px; font-weight:bold;}
+.stages_con{ width:900px; float:left;}
+.stages_con ul{ margin:0px; padding:0px; list-style:none;}
+.stages_con ul li{ float:left;}
+.stages_con ul li a{ background:url(../images/icon6.gif) no-repeat left center; padding:0px 0px 0px 8px; margin:0px 40px 0px 0px; width:3px; height:5px; line-height:30px; vertical-align:middle; color:#212121;}
